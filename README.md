@@ -3,5 +3,5 @@
 
 - 🔭 I’m currently working on **Enterprise Angular Projects**
 
-- 💬 Ask me about **JS, TS, CSS, HTML, Angular, VueJS, Laravel ...**
+- 💬 Ask me about **JS, TS, CSS, HTML, Angular, VueJS, React ...**
 
