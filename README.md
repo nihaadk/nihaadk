@@ -22,8 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
 </div>
 
-###
+
 <div align="center">
 <img href="https://raw.githubusercontent.com/nihaadk/nihaadk/blob/output/snake.svg" alt="Snake animation" />
 </div>
-###
+
