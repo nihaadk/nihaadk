@@ -23,7 +23,7 @@
 </div>
 
 ###
-
+<div align="center">
 <img href="https://raw.githubusercontent.com/nihaadk/nihaadk/blob/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
